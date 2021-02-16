@@ -9,3 +9,5 @@ bar.
 
 If the URL bar is not in focus, then first hit `Cmd+L` to focus followed by
 `Cmd+Enter`.
+
+Alternatively, you can click the `Reload this page` in the addressbar with your mouse's middle button.
